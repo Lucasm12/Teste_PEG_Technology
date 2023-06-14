@@ -1,17 +1,4 @@
 ## Estrutura do Projeto
-
-├── cypress/
-│ ├── fixtures/ (arquivos de dados de teste)
-│ ├── integration/ (arquivos de teste)
-│ ├── plugins/ (plugins do Cypress)
-│ ├── support/ (arquivos de suporte)
-│ ├── screenshots/ (screenshots gerados por testes)
-│ └── videos/ (vídeos gravados dos testes)
-├── cypress.json (configurações do Cypress)
-├── package.json (arquivo de configuração do npm)
-└── README.md (instruções e documentação
-
-
 ## Instalação do Cypress
 
 1. Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados no seu sistema. Você pode baixá-los e instalá-los a partir do site oficial: https://nodejs.org.
