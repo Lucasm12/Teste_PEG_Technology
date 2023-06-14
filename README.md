@@ -27,4 +27,10 @@ Isso abrirá o Cypress Test Runner, que permite que você execute os testes inte
 
 ## Configurações do Cypress
 
-O Cypress usa o arquivo `cypress.json` para armazenar as configurações. Verifique se esse arquivo está presente no diretório raiz do projeto. Você pode personalizar as configurações conforme necessário, como a URL base do aplicativo a ser testado.
+O Cypress usa o arquivo `cypress.json` para armazenar as configurações. Verifique se esse arquivo está presente no diretório raiz do projeto. Você pode personalizar as configurações conforme necessário, como a URL base do aplicativo a ser testado.]
+
+## Instalação do Faker
+O Faker é uma biblioteca Python que permite gerar dados falsos de forma rápida e fácil para testes e simulações. Este guia descreve os passos necessários para instalar o Faker em seu ambiente de desenvolvimento.
+
+pip install faker
+
